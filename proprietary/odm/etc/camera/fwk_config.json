@@ -290,7 +290,9 @@
         "maxPreviewWidthForAPI2cameraId0": 1280,
         "maxPreviewHeightForAPI2cameraId0": 720,
         "maxPreviewWidthForAPI2cameraId1": 1280,
-        "maxPreviewHeightForAPI2cameraId1": 720
+        "maxPreviewHeightForAPI2cameraId1": 720,
+        "scan_zoom_value": 1.26,
+        "scan_activity_name": "com.tencent.mm.plugin.scanner.ui.BaseScanUI"
     },
     "com.tencent.zebra": {
         "previewSizeForAPI1Width": 1920,
