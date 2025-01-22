@@ -4,7 +4,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),oscar)
+ifeq ($(TARGET_DEVICE),oscaro)
 
 $(call add-radio-file-sha1-checked,radio/abl.img,19e7afd18f6c2c60fc91e58ce5c9efd6903322a7)
 $(call add-radio-file-sha1-checked,radio/bluetooth.img,1c267975fe373e1c0170faa7ee1d631b8734ac9f)
